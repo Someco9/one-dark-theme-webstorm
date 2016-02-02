@@ -396,12 +396,12 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="e47880" />
+        <option name="FOREGROUND" value="e4b49a" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="c4c4b7" />
+        <option name="FOREGROUND" value="89bec4" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -657,7 +657,10 @@
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ecf9ff" />
+        <option name="BACKGROUND" value="676c70" />
+      </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
@@ -682,13 +685,22 @@
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="f9fdff" />
+        <option name="BACKGROUND" value="676c70" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fffa4d" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="TS.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="e4979a" />
       </value>
     </option>
     <option name="TWIG_BRACKETS">
@@ -723,7 +735,10 @@
       <value />
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="676c70" />
+      </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
